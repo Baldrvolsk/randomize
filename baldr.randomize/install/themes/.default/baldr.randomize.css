@@ -1,0 +1,9 @@
+/*Menu icon*/
+.rand_menu_icon {
+    background:url(icons/baldr.randomize/random_ico.png) no-repeat center center !important;
+    background-size: contain;
+
+}
+.rand_page_icon {
+    background:url(icons/baldr.randomize/random_big_ico.png) no-repeat center center !important;
+}

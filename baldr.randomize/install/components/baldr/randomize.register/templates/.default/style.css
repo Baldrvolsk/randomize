@@ -1,0 +1,41 @@
+.checkbox-wrap {
+    display: flex;
+    cursor: pointer;
+}
+
+.checkbox-wrap input[type="checkbox"] {
+}
+
+.checkbox-view {
+    display: inline-block;
+}
+
+.checkbox-view::before {
+    display: block;
+    content: '\A0';
+    width: 24px;
+    height: 24px;
+    margin: auto 20px auto auto;
+    border: 1px solid #d9d9d9;
+    background-color: #ffffff;
+    outline: none;
+    font-size: 1.7rem;
+    color: #000000;
+    text-align: center;
+    line-height: 1.6rem;
+    text-indent: 3px;
+}
+
+.checkbox-wrap input[type="checkbox"]:checked + .checkbox-view::before {
+    content: '\2714';
+}
+
+.checkbox-link {
+    color: #6aabca;
+    border-bottom: 1px dotted #b0d1e0;
+    margin-left: .4rem;
+}
+
+.form-group br {
+    height: 0;
+}

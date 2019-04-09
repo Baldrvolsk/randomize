@@ -1,0 +1,2 @@
+<?php
+$MESS["BALDR_RANDOMIZE_DETAIL_PARAM_LOTTERY_ID"] = "ID розыгрыша";

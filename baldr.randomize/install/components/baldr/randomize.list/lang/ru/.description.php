@@ -1,0 +1,3 @@
+<?php
+$MESS["C_BALDR_RANDOMIZE_LIST_COMPONENT_NAME"] = "Список";
+$MESS["C_BALDR_RANDOMIZE_LIST_COMPONENT_DESCR"] = "Список всех розыгрышей";

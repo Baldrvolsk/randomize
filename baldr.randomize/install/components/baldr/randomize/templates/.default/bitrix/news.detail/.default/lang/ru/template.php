@@ -1,0 +1,2 @@
+<?
+$MESS["T_BALDR_RANDOMIZE_NEWS_DETAIL_BACK"] = "назад";
